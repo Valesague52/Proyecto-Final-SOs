@@ -1,4 +1,4 @@
-# 🧠 Simulador de Sistema Operativo en C++
+# Simulador de Sistema Operativo en C++
 
 Este proyecto es un **simulador educativo de sistema operativo** escrito en **C++**, que representa de forma simplificada cómo funcionan algunos componentes básicos de un SO:  
 - Manejo de archivos (sistema de archivos y disco simulado)  
