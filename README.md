@@ -7,12 +7,15 @@ Este proyecto es un **simulador educativo de sistema operativo** escrito en **C+
 
 ---
 
+
+
 ## Ejecución
 Compila el programa con:
 g++ main.cpp file_system.cpp disk_manager.cpp process_manager.cpp memory_manager.cpp -o simulador
 
 Y ejecútalo con:
 ./simulador
+
 
 
 ## Menú principal
@@ -60,6 +63,8 @@ Nuevo contenido a agregar: mundo
 
 El tamaño del archivo se actualizará automáticamente según el contenido agregado.
 
+
+
 ## Gestión de Procesos
 Crear proceso
 --- Creación de Proceso ---
@@ -100,12 +105,16 @@ Memoria usada actualmente: 4/16 páginas
 --- Archivos en el sistema ---
 Nombre: a | Tamaño: 4 bytes
 
+
+
 ## Lógica Interna
 
 Cada archivo ocupa memoria según su tamaño (1 byte por carácter ingresado).
 Cada proceso usa una cantidad de páginas definida al crearse.
 El planificador asigna prioridades (0 = más alta, 3 = más baja).
 La memoria se libera automáticamente al terminar un proceso.
+
+
 
 ## Componentes del Proyecto
 
@@ -115,10 +124,14 @@ disk_manager.*: Simula la lectura/escritura en disco.
 process_manager.*: Gestión de procesos y su ejecución.
 memory_manager.*: Control de asignación y liberación de memoria.
 
+
+
 ## Notas finales
 Es una simulación didáctica, no un sistema operativo real.
 Todos los datos se mantienen solo durante la ejecución (no se guardan en archivos físicos).
 Las operaciones están diseñadas para mostrar de manera clara el funcionamiento básico de un SO.
+
+
 
 ## Referencias 
 Tanenbaum, A. S., & Bos, H. J. (2015). *Modern Operating Systems* (4th ed.). Pearson Higher Education.
