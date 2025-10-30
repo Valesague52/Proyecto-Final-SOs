@@ -136,14 +136,3 @@ Las operaciones están diseñadas para mostrar de manera clara el funcionamiento
 ## Referencias 
 Tanenbaum, A. S., & Bos, H. J. (2015). *Modern Operating Systems* (4th ed.). Pearson Higher Education.
 
-
-
-
-
-
-
-
-
-
-9. Ver estado de memoria
-10. Salir
