@@ -1,0 +1,4 @@
+ALGORITMO: FCFS (First Come, First Served)
+Posición inicial del cabezal: 50
+Solicitudes de pista:
+82 170 43 140 24 16 190 10 70 100

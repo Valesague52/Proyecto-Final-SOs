@@ -1,0 +1,6 @@
+POLÍTICA: Working Set
+Ventana de trabajo: 4
+Accesos del proceso 1:
+1 2 3 2 4 1 5 2 3 1
+Accesos del proceso 2:
+0 1 2 3 4 1 0 2 3 1

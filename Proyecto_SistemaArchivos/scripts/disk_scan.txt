@@ -1,0 +1,5 @@
+ALGORITMO: SCAN (Elevator)
+Dirección inicial: derecha
+Posición inicial del cabezal: 60
+Solicitudes de pista:
+40 180 30 70 120 10 90 150

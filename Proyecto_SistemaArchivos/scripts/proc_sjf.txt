@@ -1,0 +1,7 @@
+PLANIFICADOR: Shortest Job First (SJF)
+Procesos:
+PID | Llegada | Rafaga
+1   | 0       | 5
+2   | 1       | 3
+3   | 2       | 2
+4   | 3       | 4

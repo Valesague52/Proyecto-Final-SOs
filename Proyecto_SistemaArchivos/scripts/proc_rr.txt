@@ -1,0 +1,8 @@
+PLANIFICADOR: Round Robin
+Quantum: 3
+Procesos:
+PID | Llegada | Rafaga
+1   | 0       | 5
+2   | 2       | 3
+3   | 4       | 4
+4   | 5       | 2
